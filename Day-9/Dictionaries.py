@@ -27,3 +27,13 @@ travel_log = {
         }
     }
 }
+
+
+start_dictionary = {
+    "a":2,
+    "b":3
+}
+start_dictionary[3] = 7
+final_dictionary = start_dictionary
+
+print(start_dictionary)
